@@ -4,7 +4,6 @@ Throughout my degree I've had range of projects that required coding in Python a
 <ul>
 <li>Image and video analysis &#x2192 BZ Reaction, Zebrafish Motion Tracking</li>
 <li>Data processing &#x2192 Spectrscopy Analysis</li>
-<li>Physics modelling &#x2192 Space Faring Simulation</li>
 <li>Object Orientated Programming &#x2192 Peg Solitaire</li>
 </ul>
 
